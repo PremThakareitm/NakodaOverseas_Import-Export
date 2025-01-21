@@ -16,6 +16,24 @@ This project showcases:
 
 ---
 
+## 📽️ Demo Video  
+Watch the demo video of the website in action:  
+[![Watch Demo Video](./media/Nakoda.png)](https://drive.google.com/file/d/1VKnWEc5m6boIiS31Yo3J_MS5_wQk3hQB/view?usp=sharing)  
+*Click the image to watch the video!*  
+
+---
+
+## 📷 Visuals  
+
+### Homepage (Mobile Responsive)  
+<p align="center">  
+  <img src="./media/responsive.jpeg" alt="Homepage - Mobile Responsive" width="300" />  
+</p>  
+
+### Search Engine Preview  
+<p align="center">  
+  <img src="./media/search.png" alt="Search Engine Preview" width="600" />  
+</p>  
 
 ---
 
